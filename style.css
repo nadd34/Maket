@@ -55,19 +55,32 @@
     color:black;
     word-spacing: 50px;
 }
-.image{
-    position: absolute;
-width: 516px;
-height: 522px;
-left: 950px;
-top: 177px;
-border-radius: 0px;
+.tel{
+  position: absolute;
+left: 56%;
+top: 26%;
+bottom: 5.28%;
+filter: drop-shadow(0px 2px 10px rgba(0, 0, 0, 0.07));
+}
+.gggg{
+  position: absolute;
+  left:70%;
+  top: 26%;
+bottom: 43.37%;
+filter: drop-shadow(0px 2px 10px rgba(0, 0, 0, 0.07));
+}
+.coddeee{
+  position: absolute;
+left: 40.89%;
+left:70%;
+  top: 64%;
+filter: drop-shadow(0px 2px 10px rgba(0, 0, 0, 0.07));
 }
 .image1{
     position: absolute;
 width: 564px;
 height: 522px;
-left: 925px;
+left: 825px;
 top: 164px;
 border-radius: 8px;
 }
